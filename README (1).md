@@ -4,11 +4,6 @@ A Python-based Student Grade Calculator that computes grades, GPA, and pass/fail
 
 ---
 
-## 🚀 How to Run
-
-```bash
-python grade_calculator.py
-```
 
 ---
 
